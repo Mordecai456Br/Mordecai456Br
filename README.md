@@ -9,12 +9,8 @@ Estou em todas as oportunidades de aplicar tecnologia em ideias, das mais simple
 ---
 
 
-
-
-
 ```js
-console.log("Olá, GitHub!");
-dwdadw
+Não só consuma, crie(ideias);
 ```
 ---
 
